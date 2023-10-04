@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitpatidar07&label=Profile%20views&color=0e75b6&style=flat" alt="mohitpatidar07" /> </p>
 
-- 🌱 I’m currently learning **cyber security**
+- 🌱  I’m currently working on my journey to learn **c++** and **web development** 
 
 - 💬 Ask me about **IOT and Programming**
 
