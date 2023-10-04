@@ -6,8 +6,6 @@
 
 - 🌱  I’m currently working on my journey to learn **c++** and **web development** 
 
-- 💬 Ask me about **IOT and Programming**
-
 - 📫 How to reach me **mohitpatidar.dev@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
