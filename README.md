@@ -1,4 +1,4 @@
-Hi! My name is Mohit Patidar 😄
+Hi! I'm Mohit Patidar 😊
 ========================================================================================================================================
 
 🌍  I am a Full-Stack Developer.
@@ -6,7 +6,7 @@ Hi! My name is Mohit Patidar 😄
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java)](https://skillicons.dev)
 <br/>
 
 ### Socials
